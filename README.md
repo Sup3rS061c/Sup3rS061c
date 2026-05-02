@@ -24,7 +24,7 @@ I am **SuperS0nic** - I'm [Minecraft](https://minecraft.net) Player, I can using
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
 </div>
 
-<img src="https://skillicons.dev/icons?i=python,java,idea,git,discord,pycharm,nodejs,github,powershell,cloudflare" />
+<img src="https://skillicons.dev/icons?i=python,java,idea,git,discord,pycharm,nodejs,github,powershell,cloudflare,kotlin" />
 
 
 <div align="center">
