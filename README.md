@@ -26,10 +26,8 @@ I am **SuperS0nic** - I'm [Minecraft](https://minecraft.net) Player, I can using
 
 <img src="https://skillicons.dev/icons?i=python,java,idea,git,discord,pycharm,nodejs,github,powershell,cloudflare,kotlin" />
 
+https://github.com/user-attachments/assets/710b0881-5aa9-4c39-ad7a-0998a072ac83
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperS0nic&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
-</div>
 
 
 
